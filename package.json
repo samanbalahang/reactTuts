@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/samanbalahang/reactTuts/issues"
   },
-  "homepage": "https://github.com/samanbalahang/reactTuts#readme"
+  "homepage": "https://github.com/samanbalahang/reactTuts#readme",
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  }
 }
